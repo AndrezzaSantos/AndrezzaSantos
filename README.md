@@ -3,6 +3,12 @@
     <h1>
       Oii eu sou a Andrezza Santos ✌😊
     </h1>
+   <h5>
+     👩‍💻Graduação: Analise e Desenvolvimento de Sistemas
+   </h5>
+   <h5>
+      📱Pós Graduação: Desenvolvimento de Aplicações Mobile
+   </h5>
   </p>
 <br>
 </div>
