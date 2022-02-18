@@ -16,10 +16,7 @@
 </div>
   
  <div align="center"> 
-  <p>
-  <a href = "mailto:andrezza.saantoos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  </p>
- 
+  <p>  
+  <a href="https://www.linkedin.com/in/andrezza-santos-182290165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  </p> 
 </div>
